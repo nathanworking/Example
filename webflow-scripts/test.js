@@ -1,1 +1,1 @@
-console.log("Hello from Goodcraft Flow! test ");
+console.log("Hello from Goodcraft Flow! ");
